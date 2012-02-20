@@ -1,0 +1,1 @@
+This script will look in your Google Chrome cache directory for files that appear to be MP3s.  It will then attempt to find the ID3 tag info for said file.  Once this information has been found, it renames the file and moves it to another directory.
